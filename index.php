@@ -1,16 +1,5 @@
 <?php
-//21:30 -22:30
-//15:00 - 16:30
-//21:10 - 23:00-bad
-//17:40 - 18:45 
-//20:00 - 21:00
-//22:00 - 
 session_start();
-//require_once "route.php";
-//require_once "view/createTask.php";
-//require_once "view/edit.php";
-//require_once "view/login.php";
-//require_once "view/TaskList.php";
 ?>
 
 <!DOCTYPE html>
